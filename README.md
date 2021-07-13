@@ -1,4 +1,4 @@
-![images](https://user-images.githubusercontent.com/32282846/125497302-d9513f8b-3f66-4c2a-b175-8ab7b0764295.png)
+
 <h1 align="center">Hi 👋, I'm Andressa Lucatelli, 21y</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  ![Uploading images.png…]()
+ ![images](https://user-images.githubusercontent.com/32282846/125497302-d9513f8b-3f66-4c2a-b175-8ab7b0764295.png)
 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/32282846/121811880-2ec99900-cc3c-11eb-86e8-c008c97031f8.png" alt="c#" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/32282846/121811894-4012a580-cc3c-11eb-971f-f02c55844aa7.png" alt="c++" width="40" height="40"/> </a> 
