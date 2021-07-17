@@ -11,6 +11,8 @@
 <a href="https://linkedin.com/in/andressa-lucatelli" target="blank"><img align="center" src="https://www.televendasecobranca.com.br/wp-content/uploads/2013/03/As-10-palavras-mais-amadas-pelos-brasileiros-no-linkedin-televendas-cobranca-oficial.jpg" alt="andressa-lucatelli" height="30" width="40" /></a>
 <a href="https://discord.gg/Canastra#7400" target="blank"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/12/Discord-Logo.png" alt="Canastra#7400" height="30" width="40" /></a>
 </p>
+<a href="https://www.buymeacoffee.com/drelocatelli" title="buy me a coffee"><img src="https://user-images.githubusercontent.com/32282846/126049168-d98c147c-6893-4272-9383-e166d80a8bfa.png"></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
