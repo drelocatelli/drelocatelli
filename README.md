@@ -35,4 +35,6 @@
 <a href="https://br.wordpress.org/about/logos/" title="wordpress"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" width="60px" height="40px"></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=drelocatelli&show_icons=true&locale=en&layout=compact" alt="drelocatelli" /></p>
+<p>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drelocatelli)](https://github.com/anuraghazra/github-readme-stats)
+</p>
