@@ -36,5 +36,5 @@
 </p>
 
 <p>
- ![Captura de tela de 2021-09-05 12-46-10](https://user-images.githubusercontent.com/32282846/132132964-45cfb2e1-e052-4974-b01d-878a65d50523.png)
+ <img src="https://user-images.githubusercontent.com/32282846/132132964-45cfb2e1-e052-4974-b01d-878a65d50523.png">
 </p>
