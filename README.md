@@ -36,5 +36,5 @@
 </p>
 
 <p>
- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?drelocatelli" frameborder="0"></iframe>
+ ![Captura de tela de 2021-09-05 12-46-10](https://user-images.githubusercontent.com/32282846/132132964-45cfb2e1-e052-4974-b01d-878a65d50523.png)
 </p>
