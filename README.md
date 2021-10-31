@@ -36,6 +36,3 @@
 <a href="https://br.wordpress.org/about/logos/" title="wordpress"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" width="60px" height="40px"></a>
 </p>
 
-<p>
- <img src="https://user-images.githubusercontent.com/32282846/132132964-45cfb2e1-e052-4974-b01d-878a65d50523.png">
-</p>
