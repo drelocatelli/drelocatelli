@@ -21,7 +21,7 @@
   <a href="https://vuejs.org" target="_blank"> <img src="https://user-images.githubusercontent.com/32282846/128611136-e5654e63-4e3b-4b4e-80f0-55de82045633.png" alt="vuejs" width="40" height="40"/> </a>
  <a href="https://dart.dev target="_blank"> <img src="https://user-images.githubusercontent.com/32282846/143911960-a1414467-d652-4d3d-b50a-ace7060ad447.png" alt="dart" width="40" height="40"/> </a>
 
- <a href="https://flutter.dev target="_blank"> <img src="https://user-images.githubusercontent.com/32282846/143912126-09f2afd1-2c5d-495f-9a8f-c59195e5e0bf.png" alt="flutter" width="40" height="40"/> </a>
+ <a href="https://flutter.dev" target="_blank"> <img src="https://user-images.githubusercontent.com/32282846/143912126-09f2afd1-2c5d-495f-9a8f-c59195e5e0bf.png" alt="flutter" width="40" height="40"/> </a>
 
   
   <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
