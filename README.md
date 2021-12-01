@@ -14,9 +14,6 @@
 <a href="https://discord.gg/Canastra#7400" target="blank"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/12/Discord-Logo.png" alt="Canastra#7400" height="30" width="40" /></a>
 </p>
 
-![image]()
-
-
 <h3>Front-end</h3>
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"></a>
