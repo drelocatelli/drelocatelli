@@ -23,7 +23,7 @@
 <a href="https://vuejs.org" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/128611136-e5654e63-4e3b-4b4e-80f0-55de82045633.png" alt="vuejs" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://svelte.dev" rel="nofollow"> <img src="https://camo.githubusercontent.com/6926de691c36b618f81c870430e0a5e0c2c4930f2b71a3e7682752fa8efe96c0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f312f31622f5376656c74655f4c6f676f2e737667" alt="svelte" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" style="max-width: 100%;"></a>
-<a href="https://pt-br.reactjs.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/144276751-bffd469a-081b-46a5-9730-f25d87560649.png" alt="reactjs" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://pt-br.reactjs.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/144276751-bffd469a-081b-46a5-9730-f25d87560649.png" alt="reactjs" width="60" height="40" style="max-width: 100%;"></a>
 
 
 <h3>Back-end</h3>
