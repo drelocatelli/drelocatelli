@@ -67,25 +67,25 @@
 </p>
 
 <h3>List of courses</h3>
-[
-Build a Social Network from Scratch: JavaScript PHP + MySQL <br />
-Create a Netflix clone from Scratch: JavaScript PHP + MySQL <br />
-Fullstack Project With Spring Boot Java And React Hooks- TDD <br />
-Java Spring Boot + React JS: Desenvolva Aplicações Web Completas <br />
-React + Redux: Fundamentos e 2 Apps do Absoluto ZERO! <br />
-Formação NodeJS <br />
-Java 2021 COMPLETO: Do Zero ao Profissional + Projetos! <br />
-Java COMPLETO Programação Orientada a Objetos + Projetos <br />
-Desenvolvimento Web Avançado 2021 com PHP, Laravel e Vue.JS <br />
-Curso completo de PHP 7 <br />
-JavaScript - Curso COMPLETO com 6 Projetos REAIS <br />
-Algoritmos e Lógica de Programação - Java, C, C++, C# & Python <br />
-Desenvolvimento Web Completo - 20 cursos + 20 projetos <br />
-Técnico em administração <br />
-PHP e MYSQL para iniciantes <br />
-Flexbox <br />
-Desenvolvimento Web - Crie 6 projetos <br />
-Web Master <br />
-Design Responsivo <br />
+[<br />
+Build a Social Network from Scratch: JavaScript PHP + MySQL , <br />
+Create a Netflix clone from Scratch: JavaScript PHP + MySQL , <br />
+Fullstack Project With Spring Boot Java And React Hooks- TDD , <br />
+Java Spring Boot + React JS: Desenvolva Aplicações Web Completas , <br />
+React + Redux: Fundamentos e 2 Apps do Absoluto ZERO! , <br />
+Formação NodeJS , <br />
+Java 2021 COMPLETO: Do Zero ao Profissional + Projetos! , <br />
+Java COMPLETO Programação Orientada a Objetos + Projetos , <br />
+Desenvolvimento Web Avançado 2021 com PHP, Laravel e Vue.JS , <br />
+Curso completo de PHP 7 , <br />
+JavaScript - Curso COMPLETO com 6 Projetos REAIS , <br />
+Algoritmos e Lógica de Programação - Java, C, C++, C# & Python , <br />
+Desenvolvimento Web Completo - 20 cursos + 20 projetos , <br />
+Técnico em administração , <br />
+PHP e MYSQL para iniciantes , <br />
+Flexbox , <br />
+Desenvolvimento Web - Crie 6 projetos , <br />
+Web Master , <br />
+Design Responsivo , <br />
 ]
 
