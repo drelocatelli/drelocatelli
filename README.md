@@ -17,9 +17,9 @@
 <h3>Front-end</h3>
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow">
-<img src="https://user-images.githubusercontent.com/32282846/148977795-7849d063-c0ed-4196-aaa0-77d12f54319f.png" alt="typescript" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://www.typescriptlang.org/" rel="nofollow">
+<img src="https://user-images.githubusercontent.com/32282846/148977795-7849d063-c0ed-4196-aaa0-77d12f54319f.png" alt="typescript" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://materializecss.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://vuejs.org" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/128611136-e5654e63-4e3b-4b4e-80f0-55de82045633.png" alt="vuejs" width="40" height="40" style="max-width: 100%;"></a>
