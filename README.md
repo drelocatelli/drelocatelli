@@ -26,7 +26,7 @@
 <a href="https://dart.dev" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978779-aef5d610-84a8-47d2-84a1-346d740ec8ae.png" alt="dart" width="40" height="40" style="max-width: 100%;"></a>
 <hr>
 
-<h3>GUI / Mobile</h3>
+<h3>Desktop GUI / Mobile</h3>
 <a href="https://www.electronjs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://docs.oracle.com/javase/tutorial/uiswing/components/index.html" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/134224445-75792dc4-2e2d-400c-8f13-fad557b0e8f7.png" alt="java" width="60" height="40" style="max-width: 100%;"></a>
 <a href="https://flutter.dev" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978946-fc3fc91b-a6be-4939-9660-c93e9c10f766.png" alt="flutter" width="40" height="40" style="max-width: 100%;"></a>
