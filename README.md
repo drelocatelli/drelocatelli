@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/32282846/148977795-7849d063-c0ed-4196-aaa0-77d12f54319f.png" alt="typescript" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://materializecss.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://vuejs.org" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/128611136-e5654e63-4e3b-4b4e-80f0-55de82045633.png" alt="vuejs" width="40" height="40" style="max-width: 100%;"></a>
+
 <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://pt-br.reactjs.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/144276751-bffd469a-081b-46a5-9730-f25d87560649.png" alt="reactjs" width="60" height="40" style="max-width: 100%;"></a>
 <hr>
@@ -33,7 +33,7 @@
 <a href="https://docs.oracle.com/javase/tutorial/uiswing/components/index.html" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/134224445-75792dc4-2e2d-400c-8f13-fad557b0e8f7.png" alt="java" width="60" height="40" style="max-width: 100%;"></a>
 <a href="https://flutter.dev" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978946-fc3fc91b-a6be-4939-9660-c93e9c10f766.png" alt="flutter" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://reactnative.dev/" rel="nofollow"> <img src="https://camo.githubusercontent.com/5c92eeb467fd5d2b1ef1c560e3c3c2f758a8d4e03a8136bda7b41a2d3d4a1b59/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667" alt="reactnative" width="40" height="40" data-canonical-src="https://reactnative.dev/img/header_logo.svg" style="max-width: 100%;"></a>
-<a href="https://android.com/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/144276296-bc3050d8-6b86-4de1-864f-8745c07b1ca9.png" alt="android" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://android.com/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148980830-df0f3af2-50b8-4bb2-9301-668e8f459abb.png" alt="android" width="40" height="40" style="max-width: 100%;"></a>
 
 
 <hr>
