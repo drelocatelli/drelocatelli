@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/andressa-lucatelli/**
 
-<a href="https://www.buymeacoffee.com/drelocatelli" title="buy me a coffee"><img src="https://user-images.githubusercontent.com/32282846/126049168-d98c147c-6893-4272-9383-e166d80a8bfa.png"></a>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/andressa-lucatelli" target="blank"><img align="center" src="https://www.televendasecobranca.com.br/wp-content/uploads/2013/03/As-10-palavras-mais-amadas-pelos-brasileiros-no-linkedin-televendas-cobranca-oficial.jpg" alt="andressa-lucatelli" height="30" width="40" /></a>
@@ -30,10 +28,10 @@
 <h3>Back-end</h3>
 <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://nodejs.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978512-7e711048-d72f-437d-91d1-9dfd3367f495.png" alt="nodejs" width="40" height="40" style="max-width: 100%;"></a>
-<a href="https://www.laravel.com" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/121811957-7b14d900-cc3c-11eb-88ac-e7b2fe56b5af.png" alt="php" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://www.laravel.com" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148979193-9a0f8b46-c017-40d3-b906-d25aecc201d2.png" alt="php" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.php.net" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"></a>
-<a href="http://spring.io" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/139592580-6485e942-7a0b-489e-9f9f-50fc891aac6b.png" width="40" height="40" style="max-width: 100%;"></a>
+<a href="http://spring.io" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/139592580-6485e942-7a0b-489e-9f9f-50fc891aac6b.png" width="60" height="40" style="max-width: 100%;"></a>
 <a href="https://dart.dev" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978779-aef5d610-84a8-47d2-84a1-346d740ec8ae.png" alt="dart" width="40" height="40" style="max-width: 100%;"></a>
 
 
@@ -60,4 +58,6 @@
 <a href="https://aws.amazon.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.zabbix.com/" title="zabbix"><img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" width="60px" height="40px"></a>
 </p>
+<br /><br />
+<a href="https://www.buymeacoffee.com/drelocatelli" title="buy me a coffee"><img src="https://user-images.githubusercontent.com/32282846/126049168-d98c147c-6893-4272-9383-e166d80a8bfa.png"></a>
 
