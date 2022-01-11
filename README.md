@@ -56,5 +56,5 @@
 <a href="https://www.buymeacoffee.com/drelocatelli" title="buy me a coffee"><img src="https://user-images.githubusercontent.com/32282846/126049168-d98c147c-6893-4272-9383-e166d80a8bfa.png"></a>
 </p>
 <br> <br>
-![Developer-256px-21](https://user-images.githubusercontent.com/32282846/148982983-f1056dd1-8471-4b8e-baaa-dac6fc8d5f08.gif)
+<img src='https://user-images.githubusercontent.com/32282846/148982983-f1056dd1-8471-4b8e-baaa-dac6fc8d5f08.gif' />
 
