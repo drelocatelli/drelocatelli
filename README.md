@@ -2,15 +2,8 @@
 <h1 align="center">Hi 👋, I'm Andressa Lucatelli, 22y</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/drelocatelli](https://linktr.ee/drelocatelli)
+<center>
 
-- 📫 How to reach me **https://www.linkedin.com/in/andressa-lucatelli/**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/andressa-lucatelli" target="blank"><img align="center" src="https://www.televendasecobranca.com.br/wp-content/uploads/2013/03/As-10-palavras-mais-amadas-pelos-brasileiros-no-linkedin-televendas-cobranca-oficial.jpg" alt="andressa-lucatelli" height="30" width="40" /></a>
-<a href="https://discord.gg/LadyBug 🐞#7400" target="blank"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/12/Discord-Logo.png" alt="LadyBug 🐞#7400" height="30" width="40" /> LadyBug 🐞#7400</a>
-</p>
 
 <h3>Front-end</h3>
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"></a>
@@ -57,6 +50,12 @@
 <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"></a>
 <a href="https://aws.amazon.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.zabbix.com/" title="zabbix"><img src="https://assets.zabbix.com/img/logo/zabbix_logo_500x131.png" width="60px" height="40px"></a>
+</p>
+<hr>
+<h3>Connect with me:</h3>
+<p>
+<a href="https://linkedin.com/in/andressa-lucatelli" target="blank"><img align="center" src="https://www.televendasecobranca.com.br/wp-content/uploads/2013/03/As-10-palavras-mais-amadas-pelos-brasileiros-no-linkedin-televendas-cobranca-oficial.jpg" alt="andressa-lucatelli" height="30" width="40" /></a>
+<a href="https://discord.gg/LadyBug 🐞#7400" target="blank"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/12/Discord-Logo.png" alt="LadyBug 🐞#7400" height="30" width="40" /> LadyBug 🐞#7400</a>
 </p>
 <br /><br />
 <a href="https://www.buymeacoffee.com/drelocatelli" title="buy me a coffee"><img src="https://user-images.githubusercontent.com/32282846/126049168-d98c147c-6893-4272-9383-e166d80a8bfa.png"></a>
