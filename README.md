@@ -16,7 +16,7 @@
 <a href="https://pt-br.reactjs.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/144276751-bffd469a-081b-46a5-9730-f25d87560649.png" alt="reactjs" width="60" height="40" style="max-width: 100%;"></a>
 <hr>
 
-<h3>Back-end</h3>
+<h3 align="center">Back-end</h3>
 <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://nodejs.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978512-7e711048-d72f-437d-91d1-9dfd3367f495.png" alt="nodejs" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.laravel.com" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148979193-9a0f8b46-c017-40d3-b906-d25aecc201d2.png" alt="php" width="40" height="40" style="max-width: 100%;"></a>
@@ -26,7 +26,7 @@
 <a href="https://dart.dev" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978779-aef5d610-84a8-47d2-84a1-346d740ec8ae.png" alt="dart" width="40" height="40" style="max-width: 100%;"></a>
 <hr>
 
-<h3>Desktop GUI / Mobile</h3>
+<h3 align="center">Desktop GUI / Mobile</h3>
 <a href="https://www.electronjs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://docs.oracle.com/javase/tutorial/uiswing/components/index.html" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/134224445-75792dc4-2e2d-400c-8f13-fad557b0e8f7.png" alt="java" width="60" height="40" style="max-width: 100%;"></a>
 <a href="https://flutter.dev" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978946-fc3fc91b-a6be-4939-9660-c93e9c10f766.png" alt="flutter" width="40" height="40" style="max-width: 100%;"></a>
@@ -36,7 +36,7 @@
 
 <hr>
 
-<h3>Others skills</h3>
+<h3 align="center">Others skills</h3>
 <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.photoshop.com/en" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://br.wordpress.org/about/logos/" title="wordpress" rel="nofollow"><img src="https://camo.githubusercontent.com/05a3fa9cfe424a7f104406023afb081e80a47aac8a1f9d5334681f24c9a82bf4/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39382f576f726450726573735f626c75655f6c6f676f2e7376672f3130323470782d576f726450726573735f626c75655f6c6f676f2e7376672e706e67" width="40px" height="40px" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" style="max-width: 100%;"></a>
