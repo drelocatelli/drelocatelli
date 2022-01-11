@@ -13,7 +13,6 @@
 <img src="https://user-images.githubusercontent.com/32282846/148977795-7849d063-c0ed-4196-aaa0-77d12f54319f.png" alt="typescript" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://materializecss.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" style="max-width: 100%;"></a>
-
 <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://pt-br.reactjs.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/144276751-bffd469a-081b-46a5-9730-f25d87560649.png" alt="reactjs" width="60" height="40" style="max-width: 100%;"></a>
 <hr>
