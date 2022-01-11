@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 <center>
-
+<hr>
 
 <h3>Front-end</h3>
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"></a>
@@ -16,7 +16,7 @@
 <a href="https://vuejs.org" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/128611136-e5654e63-4e3b-4b4e-80f0-55de82045633.png" alt="vuejs" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://pt-br.reactjs.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/144276751-bffd469a-081b-46a5-9730-f25d87560649.png" alt="reactjs" width="60" height="40" style="max-width: 100%;"></a>
-
+<hr>
 
 <h3>Back-end</h3>
 <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
@@ -26,7 +26,7 @@
 <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"></a>
 <a href="http://spring.io" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/139592580-6485e942-7a0b-489e-9f9f-50fc891aac6b.png" width="60" height="40" style="max-width: 100%;"></a>
 <a href="https://dart.dev" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978779-aef5d610-84a8-47d2-84a1-346d740ec8ae.png" alt="dart" width="40" height="40" style="max-width: 100%;"></a>
-
+<hr>
 
 <h3>GUI / Mobile</h3>
 <a href="https://www.electronjs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" style="max-width: 100%;"></a>
@@ -36,7 +36,7 @@
 <a href="https://android.com/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/144276296-bc3050d8-6b86-4de1-864f-8745c07b1ca9.png" alt="android" width="40" height="40" style="max-width: 100%;"></a>
 
 
-<br />
+<hr>
 
 <h3>Others skills</h3>
 <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" style="max-width: 100%;"></a>
@@ -59,4 +59,4 @@
 </p>
 <br /><br />
 <a href="https://www.buymeacoffee.com/drelocatelli" title="buy me a coffee"><img src="https://user-images.githubusercontent.com/32282846/126049168-d98c147c-6893-4272-9383-e166d80a8bfa.png"></a>
-</center>
+
