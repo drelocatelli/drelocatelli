@@ -55,3 +55,6 @@
 <a href="https://discord.gg/LadyBug 🐞#7400" target="blank"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/12/Discord-Logo.png" alt="LadyBug 🐞#7400" height="30" width="40" /> LadyBug 🐞#7400</a>
 <a href="https://www.buymeacoffee.com/drelocatelli" title="buy me a coffee"><img src="https://user-images.githubusercontent.com/32282846/126049168-d98c147c-6893-4272-9383-e166d80a8bfa.png"></a>
 </p>
+<br> <br>
+![Developer-256px-21](https://user-images.githubusercontent.com/32282846/148982983-f1056dd1-8471-4b8e-baaa-dac6fc8d5f08.gif)
+
