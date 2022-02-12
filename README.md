@@ -53,6 +53,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/andressa-lucatelli" target="blank"><img align="center" src="https://www.televendasecobranca.com.br/wp-content/uploads/2013/03/As-10-palavras-mais-amadas-pelos-brasileiros-no-linkedin-televendas-cobranca-oficial.jpg" alt="andressa-lucatelli" height="30" width="40" /></a>
 <a href="https://discord.gg/LadyBug 🐞#7400" target="blank"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/12/Discord-Logo.png" alt="LadyBug 🐞#7400" height="30" width="40" /> LadyBug 🐞#7400</a>
+          <a href="https://www.youtube.com/channel/UCZVzXz_Bkw5roCPHITfxyWA">YOUTUBE</a>
 
 </p>
 <br> <br>
