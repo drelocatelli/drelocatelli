@@ -53,7 +53,8 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/andressa-lucatelli" target="blank"><img align="center" src="https://www.televendasecobranca.com.br/wp-content/uploads/2013/03/As-10-palavras-mais-amadas-pelos-brasileiros-no-linkedin-televendas-cobranca-oficial.jpg" alt="andressa-lucatelli" height="30" width="40" /></a>
 <a href="https://discord.gg/LadyBug 🐞#7400" target="blank"><img align="center" src="https://logosmarcas.net/wp-content/uploads/2020/12/Discord-Logo.png" alt="LadyBug 🐞#7400" height="30" width="40" /></a>
-          <a href="https://www.youtube.com/channel/UCZVzXz_Bkw5roCPHITfxyWA">YOUTUBE</a>
+<a href="https://www.youtube.com/channel/UCZVzXz_Bkw5roCPHITfxyWA"><img src="https://user-images.githubusercontent.com/32282846/153717612-ff857054-2fb7-41ba-84fa-a45261ae89b9.png" height="30" width="30" /></a>
+
 
 </p>
 <br> <br>
