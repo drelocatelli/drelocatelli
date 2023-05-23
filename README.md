@@ -19,12 +19,14 @@
 <hr>
 
 <h3 align="center">Back-end</h3>
-<a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
+
 <a href="https://nodejs.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978512-7e711048-d72f-437d-91d1-9dfd3367f495.png" alt="nodejs" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.php.net" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;"></a>
+<a href="https://laravel.com/"><img src="https://laravel.com/img/logomark.min.svg" width="30px" /></a>
 <hr>
 
 <h3 align="center">Desktop GUI / Mobile</h3>
+<a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.electronjs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://flutter.dev" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978946-fc3fc91b-a6be-4939-9660-c93e9c10f766.png" alt="flutter" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://reactnative.dev/" rel="nofollow"> <img src="https://camo.githubusercontent.com/5c92eeb467fd5d2b1ef1c560e3c3c2f758a8d4e03a8136bda7b41a2d3d4a1b59/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667" alt="reactnative" width="40" height="40" data-canonical-src="https://reactnative.dev/img/header_logo.svg" style="max-width: 100%;"></a>
