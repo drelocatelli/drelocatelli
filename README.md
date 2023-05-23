@@ -25,7 +25,7 @@
 <a href="https://laravel.com/"><img src="https://laravel.com/img/logomark.min.svg" width="30px" /></a>
 <hr>
 
-<h3 align="center">Desktop GUI / Mobile</h3>
+<h3 align="center">Desktop Automation / GUI / Mobile</h3>
 <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://www.electronjs.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://flutter.dev" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978946-fc3fc91b-a6be-4939-9660-c93e9c10f766.png" alt="flutter" width="40" height="40" style="max-width: 100%;"></a>
