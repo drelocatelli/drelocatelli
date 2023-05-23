@@ -17,7 +17,6 @@
 <b>Frameworks</b>
 <br>
 <a href="https://pt-br.reactjs.org/" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/144276751-bffd469a-081b-46a5-9730-f25d87560649.png" alt="reactjs" width="60" height="40" style="max-width: 100%;"></a>
-<a href="https://dart.dev" rel="nofollow"> <img src="https://user-images.githubusercontent.com/32282846/148978779-aef5d610-84a8-47d2-84a1-346d740ec8ae.png" alt="dart" width="40" height="40" style="max-width: 100%;"></a>
 <a href="https://vuejs.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="30px"/></a>
 <hr>
 
