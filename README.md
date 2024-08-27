@@ -59,6 +59,8 @@
 <a href="https://www.youtube.com/channel/UCZVzXz_Bkw5roCPHITfxyWA"><img src="https://user-images.githubusercontent.com/32282846/153717612-ff857054-2fb7-41ba-84fa-a45261ae89b9.png" height="30" width="30" /></a>
 
 </p>
+<br>
+<a href="https://www.youtube.com/watch?v=29WKEDzpl78&list=PLJFtVIEgVouGxRI1rgzL2sCTaLDaiyBBg">See something projects by me in videos</a>
 <br> <br>
 <p align='center'>
           <img src='https://user-images.githubusercontent.com/32282846/148982983-f1056dd1-8471-4b8e-baaa-dac6fc8d5f08.gif' />
