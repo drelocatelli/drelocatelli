@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andressa Lucatelli, 1999y</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
+<a href="https://www.youtube.com/watch?v=29WKEDzpl78&list=PLJFtVIEgVouGxRI1rgzL2sCTaLDaiyBBg">Watch videos of my projects</a> |
+<a href="https://drive.google.com/drive/folders/1xT5lYe3ZQcue5G2khToB25tMXVZSlBS9?usp=drive_link">Some old projects</a> |  You can find the other projects here ...
 
 <center>
 <br>
@@ -60,7 +62,7 @@
 
 </p>
 <br>
-<a href="https://www.youtube.com/watch?v=29WKEDzpl78&list=PLJFtVIEgVouGxRI1rgzL2sCTaLDaiyBBg">See something projects by me in videos</a>
+
 <br> <br>
 <p align='center'>
           <img src='https://user-images.githubusercontent.com/32282846/148982983-f1056dd1-8471-4b8e-baaa-dac6fc8d5f08.gif' />
