@@ -12,6 +12,9 @@
 
 </div>
 
+## 💌 Fale comigo
+<a href="https://andressalocatelli.com.br/contato">Contato</a>
+
 ## 🚀 Sobre mim
 
 Sou uma desenvolvedora fullstack apaixonada por criar soluções inovadoras e impactantes. Com experiência em desenvolvimento web, mobile e automação, busco sempre entregar projetos de qualidade que fazem a diferença na vida das pessoas.
