@@ -16,7 +16,7 @@
 
 Sou uma desenvolvedora fullstack apaixonada por criar soluções inovadoras e impactantes. Com experiência em desenvolvimento web, mobile e automação, busco sempre entregar projetos de qualidade que fazem a diferença na vida das pessoas.
 
-- 🔭 Atualmente trabalhando em **sistemas para prefeituras brasileiras**
+- 🔭 Trabalhei em **sistemas para prefeituras brasileiras**
 - 🌱 Sempre aprendendo novas tecnologias e frameworks
 - 👥 Colaboro em projetos de código aberto
 - 💬 Pergunte-me sobre **desenvolvimento web, mobile e automação**
