@@ -13,7 +13,7 @@
 </div>
 
 ## 💌 Fale comigo
-<a href="https://andressalocatelli.com.br/contato">Mande uma mensagem</a>
+<a href="https://andressalocatelli.com.br/sobre-mim">Mande uma mensagem</a>
 
 ## 🚀 Sobre mim
 
