@@ -4,7 +4,7 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Desenvolvedora+Fullstack;Apaixonada+por+tecnologia;Brasil+🇧🇷;Nascida+em+1999)
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=todoist&logoColor=white)](https://andressalocatelli.com.br/contato)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=todoist&logoColor=white)](https://andressalocatelli.com.br/sobre-mim)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andressa-lucatelli)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/LadyBug)
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCZVzXz_Bkw5roCPHITfxyWA)
@@ -13,7 +13,7 @@
 </div>
 
 ## 💌 Fale comigo
-<a href="https://andressalocatelli.com.br/sobre-mim">Mande uma mensagem</a>
+<a href="https://andressalocatelli.com.br/contato">Mande uma mensagem</a>
 
 ## 🚀 Sobre mim
 
