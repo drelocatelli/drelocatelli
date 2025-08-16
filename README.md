@@ -53,7 +53,7 @@ Sou uma desenvolvedora fullstack apaixonada por criar soluções inovadoras e im
 
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Nuxt.js](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white](https://img.shields.io/badge/Nuxt-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 
 </div>
