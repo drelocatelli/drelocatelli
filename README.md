@@ -3,7 +3,8 @@
 <div align="center">
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=435&lines=Desenvolvedora+Fullstack;Apaixonada+por+tecnologia;Brasil+🇧🇷;Nascida+em+1999)
-  
+
+  [![Meu site](https://img.shields.io/badge/Meu%20site-0077B5?style=for-the-badge&logo=globe)](https://andressalocatelli.com.br)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=todoist&logoColor=white)](https://andressalocatelli.com.br/sobre-mim)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andressa-lucatelli)
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/LadyBug)
